@@ -1,0 +1,49 @@
+.cakes {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+.cakes span{
+    background: #fff;
+    padding: 0 10px;
+}
+#a{
+    padding: 30px;
+}
+#g{
+    border-radius: 10px;
+    color:whitesmoke;
+    background-color: #000;
+}
+a{
+    color: whitesmoke;
+}
+a:hover{
+    color:  rgb(0, 217, 255);
+    text-decoration: none;
+}
+.a{
+    font-size: 18px;
+    color: whitesmoke;
+}
+.e{
+    height: 60px;
+    background-color: black;
+}
+.c{
+    height: 60px;
+    width: 70px;
+}
+.container{
+    margin-top: 30px;
+    padding-top: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+.d{
+    list-style: none;
+}
+    
+ 
